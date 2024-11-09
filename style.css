@@ -1,0 +1,38 @@
+.titulo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: 100;
+    color: rgb(187, 83, 151);
+
+}
+
+.logo {
+    text-align: center;
+}
+
+.texto-azul{
+    color: rgb(43, 97, 156);
+}
+
+.subtitulo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(187, 83, 151);
+    font-weight: 100;
+}
+
+.a-la-derecha {
+    float: right; /* muevo la foto a la derecha y que el texto acompañe */
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.a-la-izquierda {
+    float: left;
+    margin-right: 10px ;
+    margin-bottom: 10px;
+
+}
+
+.ancho-total {
+    width: 100%;
+}
